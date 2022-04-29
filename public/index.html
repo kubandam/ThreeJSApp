@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>AR APP</title>
+		<link rel="stylesheet" href="./main.css">
+	</head>
+	<body>	
+		<div id="app"></div>
+		<script type="importmap">
+			{
+				"imports": {
+					"InitWindow": "./InitWindow.js",
+					"CoordSystem": "./CoordSystem.js",
+					"three": "./three/build/three.module.js",
+					"ThreeMeshUi": "./three/three-mesh-ui.module.js",
+					"ARButton": "./three/examples/jsm/webxr/ARButton.js",
+					"createText": "./three/examples/jsm/webxr/Text2D.js",
+					"OrbitControls": "./three/examples/jsm/controls/OrbitControls.js",
+					"XRControllerModelFactory": "./three/examples/jsm/webxr/XRControllerModelFactory.js",
+					"XRHandModelFactory": "./three/examples/jsm/webxr/XRHandModelFactory.js",
+					"OculusHandModel": "./three/examples/jsm/webxr/OculusHandModel.js",
+					"OculusHandPointerModel": "./three/examples/jsm/webxr/OculusHandPointerModel.js",
+					"BoxLineGeometry": "./three/examples/jsm/geometries/BoxLineGeometry.js",
+					"EcsyModule": "./three/examples/jsm/libs/ecsy.module.js",
+					"CSS2DRenderer": "./three/examples/jsm/renderers/CSS2DRenderer.js"
+				}
+			}
+		</script> 
+		<script type="module" src="./main.js"></script>
+	</body>
+</html>

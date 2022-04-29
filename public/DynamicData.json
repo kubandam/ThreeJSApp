@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "text": "Monitor DELL \n 23,8\" Full HD \n Dell Display Manager \n 1. DP 1.2, VGA",
+        "img": "https://i.dell.com/is/image/DellContent//content/dam/global-site-design/product_images/peripherals/output_devices/dell/monitors/e_series/e2420h/general/e2420h-monitor-hero.jpg?fmt=jpg",
+        "position": {
+            "x": 0.6,
+            "y": 0.45,
+            "z":1
+        }
+    },
+    {
+        "id": 2,
+        "text": "Napeti 230 V \n Spotreba 1400 W \n Frekvence 50 Hz \n Tlak cerpadla 15 bar",
+        "img": "/assets/seaco.png",
+        "position": {
+            "x": 0.30,
+            "y": 0.45,
+            "z": -0.95
+        }
+    },
+    {
+        "id": 3,
+        "text": "Panasonic Viera \n 106 cm, 1920x1080, 600 Hz \n  DVB-C, DVB-T, HDTV \n USB, MP3, JPG",
+        "img": null,
+        "position": {
+            "x": 0.60,
+            "y": 0.50,
+            "z": 2
+        }
+    },
+    {
+        "id": 4,
+        "text": "HP DesignJet 1050C\n Total Pages: 322 \n File Format: PDF \n Adobe PDF Reader \n Windows, Mac, IOS, Android",
+        "img": "/assets/printer.png",
+        "position": {
+            "x": -0.4,
+            "y": 0.80,
+            "z": -2.6
+        }
+    }
+]
