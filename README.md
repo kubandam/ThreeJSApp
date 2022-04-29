@@ -25,3 +25,6 @@ Spustenie serveru
     3. V prehliadači Edge v HoloLens 2 zadať ip adresu serveru (ip adresa sa vypíše do terminalu)
     4. Potvrdiť HTTPS zabezpečenie
     5. Aktivovať tlačidlo "ENTER AR"
+
+## TESTY
+Finalny test: https://drive.google.com/file/d/1-Mh8-beUQhqLNBhIR9nn-USUHv5ePQHx/view?usp=sharing
