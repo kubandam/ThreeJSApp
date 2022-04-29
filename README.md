@@ -18,3 +18,10 @@ Spustenie serveru
 
     npm start
 
+## Spustenie aplikácie v okuliaroch HoloLens 2
+
+    1. Zapnutie serveru na wifi sieť na ktorú je možné pripojiť okuliare
+    2. Zapnuť server
+    3. V prehliadači Edge v HoloLens 2 zadať ip adresu serveru (ip adresa sa vypíše do terminalu)
+    4. Potvrdiť HTTPS zabezpečenie
+    5. Aktivovať tlačidlo "ENTER AR"
